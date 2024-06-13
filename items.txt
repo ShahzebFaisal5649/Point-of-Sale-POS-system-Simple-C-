@@ -1,0 +1,7 @@
+2C58, C++: Complete Reference, 650.00, 60
+5K62, Bioinformatics Algorithms, 790.00, 12
+7U87, Takeover, 815.00, 5
+1U21, Object Oriented Modelling: UML, 1230.00, 20
+7C01, Carlson's Recipes, 2700.00, 3
+5K94, Computer Algorithms, 790.00, 6
+4563,kela,555,420
